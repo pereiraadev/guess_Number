@@ -1,1 +1,1 @@
-# guess_Number
+Esse sistema é um joguinho de adivinhação básico em python para trabalhar as estruturas de repetição, estruturas condicionas e import de random, ele consiste basicamente em o usuário fornecer um número teto e o sistema gerar um número aleatório para o próprio usuário adivinhar, mesmo que simples me ajudou muito a melhorar essas condições e aprimorar o conhecimento nessa linguagem de programação.
